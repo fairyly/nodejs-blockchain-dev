@@ -17,3 +17,15 @@ nodejs区块链开发 原名 Nodejs开发加密货币
 
 - Web 平台区块链开发： https://github.com/Azard/web-blockchain-development
   - 在线阅读：https://azard.gitbooks.io/web-blockchain-development/content/
+  
+[^1]: 比特币源代码地址: https://github.com/bitcoin/bitcoin
+
+[^2]: 以太坊官网: https://www.ethereum.org/
+
+[^3]: 超级账本官网: https://www.hyperledger.org/
+
+[^4]: 基于浏览器的区块链系统 Nimiq: https://nimiq.com/
+
+[^5]: WebAssembly: http://webassembly.org/
+
+[^6]: Node.js: https://nodejs.org/
