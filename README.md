@@ -13,3 +13,7 @@ nodejs区块链开发 原名 Nodejs开发加密货币
 
 
 - 亿书： 《Nodejs开发加密货币》原始代码：https://github.com/Ebookcoin/ebookcoin/releases
+
+
+- Web 平台区块链开发： https://github.com/Azard/web-blockchain-development
+  - 在线阅读：https://azard.gitbooks.io/web-blockchain-development/content/
